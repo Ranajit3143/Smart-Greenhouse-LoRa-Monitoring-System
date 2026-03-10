@@ -1,0 +1,6 @@
+LoRa by Sandeep Mistry
+DHT sensor library
+BH1750
+MHZ19
+Wire
+SPI
